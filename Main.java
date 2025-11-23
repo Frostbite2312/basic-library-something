@@ -125,7 +125,6 @@ public class Main {
             } else {
             	System.out.println("Invalid.");
             }
-			input.close();
 		}
 	}
 
