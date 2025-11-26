@@ -1,4 +1,3 @@
-package library; // eclipseIDE-specific line, please remove!
 import java.io.*;				// Majority of the functions like BufferedReader and stuff
 import java.util.ArrayList;		// Arrays
 import java.util.Scanner;		// yk what this is
